@@ -56,7 +56,7 @@ Add the file ---- >				stage the file ---- >
 < --- Remove the file
 			 < --------------- Commit  ---------------- >
 
-Untracked ( Não Mercado, momento em que o arquivo acabou de ser adicionado )
+Untracked ( Não Modificado, momento em que o arquivo acabou de ser adicionado )
 Unmodifield ( Não modificado, ele existe no GIT porem sem modificação depois de ser adicionado )
 Modifield ( quando ouver modificação, Se for modificado )
 Staged ( depois da modificação, é passado para a área de VERSÂO, chamada staged ( vontando assim a posição unmodifield ))
